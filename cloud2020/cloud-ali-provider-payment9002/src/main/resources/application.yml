@@ -1,0 +1,15 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: nacos-payment-provider
+  cloud:
+    nacos:
+      server-addr: localhost:8848 # Nacos地址
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'  #暴露端口

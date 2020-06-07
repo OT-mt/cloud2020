@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seata-order-service2001" />
+        <module name="cloud-provider-payment8006" />
+        <module name="cloud-stream-rabbitmq-consumer8803" />
+        <module name="cloud-provider-payment8004" />
+        <module name="cloud-ali-provider-payment9004" />
+        <module name="cloud-config-client3366" />
+        <module name="cloud-provider-payment8001" />
+        <module name="cloud-config-client3355" />
+        <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="cloud-stream-rabbitmq-consumer8802" />
+        <module name="cloud-consumerzk-order80" />
+        <module name="cloud-ali-consumer-nacos-order84" />
+        <module name="cloud-ali-config-nacos-client3377" />
+        <module name="seata-storage-service2003" />
+        <module name="cloud-config-center3344" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud-provider-payment8002" />
+        <module name="cloud-alibaba-sentinel-service8401" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
+        <module name="cloud-ali-nacos-consumer83" />
+        <module name="cloud-eureka-server7002" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-consumer-feign-order80" />
+        <module name="cloud-consumer-hystrix-dashboard9001" />
+        <module name="cloud-consumer-order80" />
+        <module name="test-h-order80" />
+        <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-ali-provider-payment9003" />
+        <module name="cloud-ali-provider-payment9002" />
+        <module name="cloud-ali-provider-payment9001" />
+        <module name="seata-account-service2002" />
+        <module name="cloud-consumercs-order80" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client" target="1.8" />
+      <module name="cloud-confg-client3355" target="1.8" />
+      <module name="cloud-config-center3355" target="1.8" />
+      <module name="cloud-config-center3355 (1)" target="1.8" />
+      <module name="cloud-configclient3355" target="1.8" />
+      <module name="cloud-consumer-order80 (1)" target="1.8" />
+      <module name="cloud-provider-payment8001 (1)" target="1.8" />
+      <module name="service" target="1.5" />
+      <module name="test-h-order80" target="1.8" />
+      <module name="test-h-payment8001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
